@@ -41,4 +41,5 @@ for num in range(100):
     # Uncomment this code below to append the data.
 
     # data_gen = f'{first},{last},{email}'
+    # file_csv.write("first_name,last_name,email")
     # file_csv.write("\n" + data_gen)
